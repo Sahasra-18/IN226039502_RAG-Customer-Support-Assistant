@@ -31,4 +31,4 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Lang
 - LLD.pdf
 
 ## 🎥 Demo Video
-https://drive.google.com/file/d/1x99LU_N6S7bh7NAqUVo47XFU0tu1tyOc/view?usp=drive_link
+https://drive.google.com/file/d/1GQkKyOPDGm3H3UOSDHen4ax_RCwzX25v/view?usp=drive_link
