@@ -29,3 +29,6 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Lang
 - Customer_Support_Knowledge_Base.pdf
 - HLD.pdf
 - LLD.pdf
+
+## 🎥 Demo Video
+https://drive.google.com/file/d/1x99LU_N6S7bh7NAqUVo47XFU0tu1tyOc/view?usp=drive_link
